@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipin1050&show_icons=true&theme=radical&count_private=true)
 
-![](https://raw.githubusercontent.com/bipin1050/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bipin1050/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Github stats](https://github-readme-stats.vercel.app/api?username=bipin1050&theme=highcontrast&show_icons=true&count_private=true)
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipin1050&layout=compact&theme=radical&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bipin1050&theme=dark)](https://git.io/streak-stats)
