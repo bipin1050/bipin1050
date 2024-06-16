@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/bipin1050/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/bipin1050/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bipin1050&theme=highcontrast&show_icons=true&count_private=true)
