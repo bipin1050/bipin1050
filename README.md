@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  
 ![Bipin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipin1050&show_icons=true&theme=radical&count_private=true)
-
-
-
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bipin1050&layout=compact&theme=radical&count_private=true)
+</div>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bipin1050&theme=dark)](https://git.io/streak-stats)
